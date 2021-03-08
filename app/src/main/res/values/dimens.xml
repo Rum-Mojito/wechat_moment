@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="background_margin">10dp</dimen>
+    <dimen name="app_bar_height">280dp</dimen>
+    <dimen name="fab_margin">10dp</dimen>
+    <dimen name="tweet_content_margin">10dp</dimen>
+    <dimen name="profile_name_margin">100dp</dimen>
+    <dimen name="tweet_content_top_margin">10dp</dimen>
+    <dimen name="comment_text_size">12sp</dimen>
+</resources>

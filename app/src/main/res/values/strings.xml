@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">weChatMoment</string>
+    <string name="movie_image_desc">user background</string>
+    <string name="default_user_name">user_name</string>
+    <string name="profile_background">profile background</string>
+    <string name="user_profile_image">user profile image</string>
+    <string name="moment_sender_avatar">sender avatar</string>
+    <string name="default_comment_content">comment</string>
+    <string name="tweet_image">tweet images</string>
+    <string name="BASE_URL">https://thoughtworks-mobile-2018.herokuapp.com/</string>
+    <string name="footer_text">load more ...</string>
+</resources>
